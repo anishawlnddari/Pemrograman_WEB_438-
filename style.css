@@ -1,0 +1,9 @@
+table {
+    background-color: gold;
+    border-style: double;
+}
+
+th, td {
+    border: 1px solid black;
+    border-style: double;
+}
