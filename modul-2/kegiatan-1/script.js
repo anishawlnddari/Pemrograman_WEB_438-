@@ -3,8 +3,6 @@ function Jumlahkan() {
   var angka2 = parseInt(document.getElementById("angka2").value);
   var hasil = angka1 + angka2;
 
-  document.getElementById("hasil").textContent = hasil;
-
   alert("Hasil Penjumlahan: " + hasil);
 
   return false;
